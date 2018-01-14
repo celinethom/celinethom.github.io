@@ -14,6 +14,7 @@ margin-top: 10px;
  body{
  	background-image: url("../img/milky.jpg");
  	background-color: #cccccc;
+ 	font-family: 'Fjalla One', sans-serif;
  }
  .fa-instagram{
  	color: #403075;
