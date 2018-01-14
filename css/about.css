@@ -1,0 +1,23 @@
+.img-width-fix {
+max-width: 100%;
+}
+
+.progress-bar-striped{
+}
+
+.thick{
+	font-weight: bold;
+}
+.margin{ 
+margin-top: 10px;
+ }
+ body{
+ 	background-image: url("../img/milky.jpg");
+ 	background-color: #cccccc;
+ }
+ .fa-instagram{
+ 	color: #403075;
+ }
+ .fa-facebook-official{
+ 	color: #403075;
+ }
